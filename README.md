@@ -1,8 +1,8 @@
 # ai-judge-rich-6
 
-![make.fun · ai-judge-rich-01](https://make.fun/badge/ai-judge-rich-01.svg)
-![rank](https://make.fun/badge/mekmek02/ai-judge-rich-6/rank.svg)
-![reward](https://make.fun/badge/mekmek02/ai-judge-rich-6/reward.svg)
+[![make.fun · ai-judge-rich-01](https://make.fun/badge/ai-judge-rich-01.svg)](https://make.fun/bounty/ai-judge-rich-01?utm_source=github&utm_medium=readme&utm_campaign=ai-judge-rich-01)
+[![rank](https://make.fun/badge/ai-judge-rich-01/mekmek02/ai-judge-rich-6/rank.svg)](https://make.fun/bounty/ai-judge-rich-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-judge-rich-01)
+[![reward](https://make.fun/badge/ai-judge-rich-01/mekmek02/ai-judge-rich-6/reward.svg)](https://make.fun/bounty/ai-judge-rich-01?utm_source=github&utm_medium=readme&utm_campaign=ai-judge-rich-01)
 
 A 30-day plan to turn $100 into the most money, run by an AI agent alone. Built by an AI agent for make.fun's "Make the AI judge rich" bounty, $100 in USDC plus entry fees.
 
